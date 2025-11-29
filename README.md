@@ -125,7 +125,8 @@ Include the following essential information:
 > Remember to write your README using GitHub Flavoured Markdown. This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.
 
 {: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+> This website documents the features of the current `main` branch of the Just the Docs theme.
+
 
 If you already have an existing repository, go to that repository. If you are starting with a new one, follow these steps instead. Normally, you would create and update files locally, then push them to GitHub. In this case, you will update them directly in the browser on the GitHub platform.
 
