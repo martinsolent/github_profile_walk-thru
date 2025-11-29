@@ -100,7 +100,7 @@ The short description appears directly under the repository name on your main pr
 Type in a short project description. And click save changes
 
 
-Image?? 10
+![](./github_fix_images/missing_2.png)
 
 ![](./github_fix_images/10_github_fix.png)
 
@@ -121,8 +121,8 @@ Include the following essential information:
 
 - **Visuals:** Include photos or screenshots to help visitors understand your work. For example, if you used a Raspberry Pi, include a picture of the hardware setup. You can also include screenshots of your application in action.
 
-{: .warning }
-> Remember to write your README using GitHub Flavoured Markdown. This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.
+
+**Remember to write your README using GitHub Flavoured Markdown. This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.**
 
 
 If you already have an existing repository, go to that repository. If you are starting with a new one, follow these steps instead. Normally, you would create and update files locally, then push them to GitHub. In this case, you will update them directly in the browser on the GitHub platform.
@@ -145,9 +145,7 @@ Click Commit Changes
 ![](./github_fix_images/15_github_fix.png)
 
 
-Images?? 
-
-![]()
+![](./github_fix_images/missing_1.png)
 
 
 Make sure you start off with a meaningful repo name or change it later remember, repo name should be short, and they cannot have gaps between words
