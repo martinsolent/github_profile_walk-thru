@@ -121,11 +121,8 @@ Include the following essential information:
 
 - **Visuals:** Include photos or screenshots to help visitors understand your work. For example, if you used a Raspberry Pi, include a picture of the hardware setup. You can also include screenshots of your application in action.
 
-{: .note }
-> Remember to write your README using GitHub Flavoured Markdown. This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.
-
 {: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme.
+> Remember to write your README using GitHub Flavoured Markdown. This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.
 
 
 If you already have an existing repository, go to that repository. If you are starting with a new one, follow these steps instead. Normally, you would create and update files locally, then push them to GitHub. In this case, you will update them directly in the browser on the GitHub platform.
