@@ -326,6 +326,11 @@ Now go to your main profile page - Overview and your README will be visable as a
 
 
 
+[skillsicons.dev](https://skillicons.dev)
+
+**Skills Icons** [https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)
 
 
+```[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev) ```
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev)
