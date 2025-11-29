@@ -294,9 +294,23 @@ Now go to your main profile page - Overview and your README will be visable as a
 ![tut_4](github_profile_img/tut_5.png)
 
 
-### How to insert Emojis in GitHub
 
 
-**BALL.,K. 2025.** *EMOJI cheatsheet* [viewed 21 March 2025]. Available from: [https://gist.github.com/roachhd/1f029bd4b50b8a524f3c](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+**Excellent Blog on Setting up a Professional GitHub Profile**
+
+![](./github_fix_images/good_profile_blog.png)
+
+**GABRIEL, J., 2024.** How to Make Your Awesome GitHub Profile [viewed 6 November 2025] Available from: [https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog](https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog)
+
+**How to insert Emojis in GitHub**
 
 ![tut_6](github_profile_img/tut_6.png)
+
+
+**BALL.,K. 2025.** *EMOJI cheatsheet* [viewed 6 November 2025]. Available from: [https://gist.github.com/roachhd/1f029bd4b50b8a524f3c](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+
+
+
+
+
+
