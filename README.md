@@ -1,121 +1,177 @@
-# GitHub Profile
-### How to create a main profile
+# Step-by-Step Guide to Optimising Your GitHub Profile
 
-There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page, like the example below:
+![](./github_fix_images/1_github_fix.png)
 
-![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
+Your GitHub profile is far more than just a place to store code; it's a dynamic, professional portfolio. For potential employers, it’s a window into your skills, the projects you've built, and your passion for technology. It's ÍÍ›a powerful tool for building your career and demonstrating your enthusiasm for digital projects.
 
-**POWELL.,M. 2025.** *M0nica - Overview* [viewed 21 March 2025]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
+Unfortunately, it's common for students to create a profile for a module or course and then leave it incomplete. This guide will walk you through simple but powerful steps to turn that dormant profile into a compelling showcase of your talent, one that opens doors to new opportunities.
 
-#### Avoid having a GitHub Profile that makes you look like a Bot!
+**This walkthrough assumes you already have a basic understanding of GitHub, have set up your profile, and created repositories. It also assumes you have some basic knowledge of Markdown scripting.**
 
-When it comes to your GitHub profile, it's essential to strike a balance between showcasing your skills, projects, and contributions while maintaining professionalism and privacy. 
+### 1. The First Impression: Perfecting Your Profile Header 
 
-<p align="center">
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7e152607-fc61-49a7-8de4-b2e3008a6a05&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Creating Professional GitHub Profile" ></iframe>
-</p>
+The very top of your profile, your avatar, name, bio, and links, creates an immediate first impression for any visitor. Getting these details right is the first step toward a professional and compelling presence.
 
-[Download GitHub Profile Slides](GitHub_Profile_2025.pptx)
+**1.1. Update Your Avatar -** A generic, default avatar can make a profile look incomplete. Replacing it is a small change with a big impact. Your goal is to use *something* other than the default. You have a few great options:
 
-Here are some dos and don'ts for what information to include on your GitHub profile.
+- **Use a professional-looking picture of yourself.** This adds a personal and human touch.
 
-**Do:**
-1. **Professional Profile Picture:** Use a professional photo or avatar that represents you well in a work context.
+- **Use an AI-generated or cartoon picture.** If you aren't comfortable using a personal photo, this is an excellent alternative that still shows personality.
 
-1. **Bio/Description:** Write a brief, informative bio highlighting your expertise, interests, and contributions. Keep it concise and relevant.
+![](./github_fix_images/2_github_fix.png)
 
-3. **Repositories:** Publicly showcase your best projects, contributions, and code samples. Organise them with clear descriptions and README files.
+#### 1.2. Set Your Name and Write a Bio 
 
-4. **Contributions:** Make you sure you are showing that you are “active” in the Contributions panel either for personal and joint project.
+By default, GitHub may only display your username, which can be cryptic. Change this to your full name so visitors know who you are.
 
-5. **Skills:** Include a list of relevant skills and technologies you're proficient in. This helps others quickly assess your expertise.
+Next, write a short bio that provides essential context. It doesn't need to be long, but it should be informative. Consider including:
 
-6. **Contact Information:** Provide ways for others to contact you, such as an email address or social media profiles.
+- **What you are studying:** Something like "Computer Science Student" is perfect. You can choose to omit your specific university if you prefer.
 
-7. **Open Source Contributions:** Mention any open-source projects you maintain or actively contribute to. This showcases your commitment to collaboration and community building.
+- **Your areas of interest:** Mention your passions within technology to give a sense of what drives you.
 
+![](./github_fix_images/3_github_fix.png)
 
-**Don't:**
-1. **Sensitive Information:** Avoid including sensitive personal information such as your home address, phone number, or personal email address.
+#### 1.3. Add Strategic Links 
 
-1. **Confidential Code:** Refrain from uploading proprietary or confidential code to public repositories. Be mindful of intellectual property rights and confidentiality agreements.
+Links are a powerful way to direct visitors to more of your work and professional presence. Be strategic about what you share.
 
-1. **Incomplete or Untidy Repositories:** Keep your repositories organised and well-documented. Avoid leaving unfinished or messy projects on your profile.
+1.  **Portfolio Website:** A personal portfolio is the best way to showcase your work in one place. You can easily create a simple portfolio website and host it for free using **GitHub Pages**.
 
-1. **Unprofessional Content:** Do not share content that could be considered offensive, discriminatory, or unprofessional. Remember that your GitHub profile is a reflection of your professional image.
+2.  **Professional social media:** Avoid linking to private social media accounts. Instead, create professional accounts dedicated to highlighting your work, sharing what you're learning, and engaging with the tech industry.
 
-1. **Overly Personal Details**: While it's fine to mention hobbies or interests, avoid oversharing personal details that are unrelated to your professional profile.
-
-1. **Negative Remarks:** Avoid making negative remarks about previous employers, colleagues, or projects. Maintain a positive and constructive tone in your interactions and contributions.
-
-1. **Inactive or Outdated Content:** Regularly update your profile with recent projects and contributions. Avoid leaving outdated or inactive content that doesn't reflect your current skills and expertise.
+![](./github_fix_images/4_github_fix.png)
 
 
-See more examples here: **WALKER.,W. 2025.** *What’s on your GitHub Profile* [viewed 21 March 2025]. Available from: [https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3](https://dev.to/waylonwalker/what-s-on-your-github-profile-40p3)
+![](./github_fix_images/6_github_fix.png)
 
-![link_to profile_examples](github_profile_img/link_examples.png)
+All done!
 
+![](./github_fix_images/7_github_fix.png)
 
+### 2. Curating Your Best Work: Pinning Repositories 
 
-<p style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-otyb0ngsa4?si=NNUL99XaeIm2zib0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
-</p>
+Pinning repositories allows you to take control of your profile's narrative. Instead of letting GitHub display your most popular or recent projects by default, you can hand-pick the ones that best represent your skills and ambitions.
 
-<p style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vNoPWpF3zJk?si=-epA2T9B2twvTRZq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
-</p>
+#### 2.1. Why Pinning Matters
 
-<p style="text-align: center;">
-Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/create-profile">profileme.dev/create-profile</a>
-</p>
+Pinning allows you to strategically highlight your standout projects. It’s your opportunity to curate a collection that shows a variety of your skills and tells a compelling story about your abilities, rather than just showing what's most recent.
 
-<p style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ktN5tDfQ_g8?si=ArLr8_EjJN2TH-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="font-size: 1rem;"></iframe>
-</p>
+#### 2.2. How to Select and Pin Your Projects
 
-### How to create a main profile README in GitHub
+ Carefully choosing which projects to feature is key. Follow this strategy to build an impressive showcase:
 
-Create a new repository:
+1.  **Aim for Quality:** Choose **four to six** of your standout projects that best demonstrate your abilities.
 
-![tut_1](github_profile_img/tut_1.png)
+2.  **Showcase Variety:** Select projects that highlight different skills and technologies you've worked with.
 
+3.  **Include Side Projects:** Pinning projects, you've built outside of class is the most powerful signal you can send to employers. It shows you are **"doing more outside your class time"** and provides concrete proof that you are **"motivated and willing to learn."** Most importantly, it demonstrates **"independent learning beyond what you're doing in your modules"**, a quality that every employer is looking for.
 
-Name this repo the same name as you GitHub Profile (remember this is case sensitive) Make sure you check the **Initialise this repository with a README**. Then click create repository.
+4.  **Arrange by Importance:** After pinning your repositories, you can drag and drop them to change their order. Place your most impressive project first.
+
+![](./github_fix_images/8_github_fix.png)
 
 
-![tut_2](github_profile_img/tut_3.png)
+### 3. Project Polish: The Three Essentials for Every Repository 
+
+Once a repository is pinned, it needs to be clear, professional, and easy for an outsider to understand. Every featured project should have these three essential components.
+
+#### 3.1. Use a Meaningful Repository Name 
+
+A project named final-project-v2 tells a visitor nothing. The repository's name should clearly reflect its content.
+
+To change it, go to the repository's **Settings** tab and find the **Repository name** field. Update it to something descriptive, using underscores or hyphens instead of spaces (e.g., face-recognition-app).
+
+#### 3.2. Write a Clear One-Line Description 
+
+The short description appears directly under the repository name on your main profile page. It provides a quick summary of what the project does.
+
+1.  Navigate to the main page of your repository.
+
+2.  Click the small **cog icon** next to the "About" section on the right-hand side.
+
+3.  In the **"Description"** field, write a concise, one-sentence summary of the project.
+
+4.  Optionally, add a **"Website"** link. This is the perfect place to link to a live demo, especially if the project is hosted on GitHub Pages.
 
 
-Edit and update as you see fit such as add a promo banner,  GitHub offers you some pre-populated details which are commented out to get you started.
+![](./github_fix_images/9_github_fix.png)
+
+Type in a short project description. And click save changes
 
 
-![tut_4-4](github_profile_img/tut_4-4.png)
+Image?? 10
+
+![](./github_fix_images/10_github_fix.png)
 
 
-Name and commit changes
+![](./github_fix_images/11_github_fix.png)
+
+#### 3.3 Craft a Comprehensive README File 
+
+The **README** is the most critical piece of documentation for any project. Its purpose is to tell a visitor everything they need to know, from the project's purpose to how it works. A great README makes your work accessible and impressive.
+
+Include the following essential information:
+
+- **What the project is about:** A clear and detailed explanation of its purpose and features.
+
+- **Technical Information:** Details on how to run or implement the project.
+
+- **Your Process & Reflections:** Document what you did, the challenges you faced, and what you learned. This provides invaluable insight into your problem-solving skills.
+
+- **Visuals:** Include photos or screenshots to help visitors understand your work. For example, if you used a Raspberry Pi, include a picture of the hardware setup. You can also include screenshots of your application in action.
+
+{: .warning }
+> **Remember to write your README using GitHub Flavoured Markdown.** This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.
+
+If you already have an existing repository, go to that repository. If you are starting with a new one, follow these steps instead. Normally, you would create and update files locally, then push them to GitHub. In this case, you will update them directly in the browser on the GitHub platform.
+
+Click on the pencil icon to enter edit mode
 
 
-![tut_4-4](github_profile_img/tut_4-4.png)
+![](./github_fix_images/12_github_fix.png)
+
+Type in your readme information in Markdown script
 
 
-Now go to your main profile page - Overview and your README will be visable as a card pinned at the top of the page.
+![](./github_fix_images/13_github_fix.png)
 
 
-![tut_4](github_profile_img/tut_5.png)
+![](./github_fix_images/14_github_fix.png)
+
+Click Commit Changes
+
+![](./github_fix_images/15_github_fix.png)
 
 
-### Here is a tutorial here:
+Images?? 
+
+![]()
 
 
-![link_to_tutorial](github_profile_img/link_to_tutorial.png)
+Make sure you start off with a meaningful repo name or change it later remember, repo name should be short, and they cannot have gaps between words
 
 
-**POWELL.,M., 2025**. *How To Create A GitHub Profile README* [viewed 21 March 2025]. Available from: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+![](./github_fix_images/17_github_fix.png)
 
 
-### How to insert Emojis in GitHub
+![](./github_fix_images/19_github_fix.png)
 
 
-**BALL.,K. 2025.** *EMOJI cheatsheet* [viewed 21 March 2025]. Available from: [https://gist.github.com/roachhd/1f029bd4b50b8a524f3c](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+![](./github_fix_images/20_github_fix.png)
 
-![tut_6](github_profile_img/tut_6.png)
+Your pinned repo projects will appear in your profile, you can drag and drop to change the order
+
+![](./github_fix_images/21_github_fix.png)
+
+### 4. Show Your Momentum: Activity and Consistency 
+
+A polished profile is a fantastic start, but showing consistent activity proves your ongoing engagement and passion for learning. The contribution graph is a powerful visual indicator of your dedication.
+
+#### 4.1. Keep Your Contributions Public 
+
+Ensure your contribution activity for public projects is visible on your profile. This activity graph shows employers how active and passionate you are. Long periods of inactivity may not look good, so it's important to showcase your ongoing work. This contribution graph is primarily populated by the work you do on public repository, making side projects the most effective way to build a compelling and consistent activity record.
+
+#### 4.2. The Power of Side Projects 
+
+Working on personal or "side" projects outside of required university or college work is the single best way to populate your activity graph. It is compelling evidence of your enthusiasm for technology and a key differentiator for employers. It shows them you are motivated, willing to learn, and dedicated to building skills through independent learning that goes beyond your classroom curriculum.
