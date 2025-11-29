@@ -3,10 +3,9 @@
 
 ## Overview
 
-# GitHub Profile
-### How to create a main profile
+Your GitHub profile is far more than just a place to store code; it's a dynamic, professional portfolio. For potential employers, it’s a window into your skills, the projects you've built, and your passion for technology. It's ÍÍ›a powerful tool for building your career and demonstrating your enthusiasm for digital projects.
 
-There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page, like the example below:
+Unfortunately, it's common for students to create a profile for a module or course and then leave it incomplete. This guide will walk you through simple but powerful steps to turn that dormant profile into a compelling showcase of your talent, one that opens doors to new opportunities.
 
 ![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
 
@@ -80,14 +79,10 @@ Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/
 
 ## Fix Your GitHub Profile Walk-through
 
+**This walkthrough assumes you already have a basic understanding of GitHub, have set up your profile, and created repositories. It also assumes you have some basic knowledge of Markdown scripting.**
 
 ![](./github_fix_images/1_github_fix.png)
 
-Your GitHub profile is far more than just a place to store code; it's a dynamic, professional portfolio. For potential employers, it’s a window into your skills, the projects you've built, and your passion for technology. It's ÍÍ›a powerful tool for building your career and demonstrating your enthusiasm for digital projects.
-
-Unfortunately, it's common for students to create a profile for a module or course and then leave it incomplete. This guide will walk you through simple but powerful steps to turn that dormant profile into a compelling showcase of your talent, one that opens doors to new opportunities.
-
-**This walkthrough assumes you already have a basic understanding of GitHub, have set up your profile, and created repositories. It also assumes you have some basic knowledge of Markdown scripting.**
 
 ### 1. The First Impression: Perfecting Your Profile Header 
 
@@ -264,3 +259,44 @@ Ensure your contribution activity for public projects is visible on your profile
 #### 4.2. The Power of Side Projects 
 
 Working on personal or "side" projects outside of required university or college work is the single best way to populate your activity graph. It is compelling evidence of your enthusiasm for technology and a key differentiator for employers. It shows them you are motivated, willing to learn, and dedicated to building skills through independent learning that goes beyond your classroom curriculum.
+
+
+### 5. How to create a main profile
+
+There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page, like the example below:
+
+Create a new repository:
+
+![tut_1](github_profile_img/tut_1.png)
+
+
+Name this repo the same name as you GitHub Profile (remember this is case sensitive) Make sure you check the **Initialise this repository with a README**. Then click create repository.
+
+
+![tut_2](github_profile_img/tut_3.png)
+
+
+Edit and update as you see fit such as add a promo banner,  GitHub offers you some pre-populated details which are commented out to get you started.
+
+
+![tut_4-4](github_profile_img/tut_4-4.png)
+
+
+Name and commit changes
+
+
+![tut_4-4](github_profile_img/tut_4-4.png)
+
+
+Now go to your main profile page - Overview and your README will be visable as a card pinned at the top of the page.
+
+
+![tut_4](github_profile_img/tut_5.png)
+
+
+### How to insert Emojis in GitHub
+
+
+**BALL.,K. 2025.** *EMOJI cheatsheet* [viewed 21 March 2025]. Available from: [https://gist.github.com/roachhd/1f029bd4b50b8a524f3c](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+
+![tut_6](github_profile_img/tut_6.png)
