@@ -278,35 +278,74 @@ Working on personal or "side" projects outside of required university or college
 
 ### 5. How to create a main profile
 
-There are some new features on GitHub for creating a main promotional profile and pinning repositories on your Overview page, like the example below:
+GitHub now offers new features for creating a main promotional profile, allowing you to include a more detailed bio and add images such as tech skill badges and icons, like in the example below:
 
-Create a new repository:
 
-![tut_1](github_profile_img/tut_1.png)
+![](../github_profile_2020/main_profile/17_main_profile.png)
+
+Create a new repository - click Repositories:
+
+![](../github_profile_2020/main_profile/2_main_profile.png)
+
+
+Then click New
+
+![](../github_profile_2020/main_profile/3_main_profile.png)
+
+
+Name it exactly the same name as your profile name remember this is case sensitive
+
+
+![](../github_profile_2020/main_profile/4_main_profile.png)
+
+ Make sure add README is switched to On and click the Create Repository button
+
+![](../github_profile_2020/main_profile/5_main_profile.png)
+
+![](../github_profile_2020/main_profile/6_main_profile.png)
+
+![](../github_profile_2020/main_profile/7_main_profile.png)
+
+![](../github_profile_2020/main_profile/8_main_profile.png)
+
+![](../github_profile_2020/main_profile/10_main_profile.png)
+
+![](../github_profile_2020/main_profile/11_main_profile.png)
+
+![](../github_profile_2020/main_profile/12_main_profile.png)
+
+![](../github_profile_2020/main_profile/13_main_profile.png)
+
+![](../github_profile_2020/main_profile/14_main_profile.png)
+
+![](../github_profile_2020/main_profile/15_main_profile.png)
+
+![](../github_profile_2020/main_profile/16_main_profile.png)
+
+![](../github_profile_2020/main_profile/17_main_profile.png)
 
 
 Name this repo the same name as you GitHub Profile (remember this is case sensitive) Make sure you check the **Initialise this repository with a README**. Then click create repository.
 
 
-![tut_2](github_profile_img/tut_3.png)
+
 
 
 Edit and update as you see fit such as add a promo banner,  GitHub offers you some pre-populated details which are commented out to get you started.
 
 
-![tut_4-4](github_profile_img/tut_4-4.png)
 
 
 Name and commit changes
 
 
-![tut_4-4](github_profile_img/tut_4-4.png)
+
 
 
 Now go to your main profile page - Overview and your README will be visable as a card pinned at the top of the page.
 
 
-![tut_4](github_profile_img/tut_5.png)
+
 
 
 
@@ -334,3 +373,5 @@ Now go to your main profile page - Overview and your README will be visable as a
 ```[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev) ```
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev)
+
+
