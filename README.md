@@ -40,10 +40,16 @@ Links are a powerful way to direct visitors to more of your work and professiona
 
 2.  **Professional social media:** Avoid linking to private social media accounts. Instead, create professional accounts dedicated to highlighting your work, sharing what you're learning, and engaging with the tech industry.
 
+
 ![](./github_fix_images/4_github_fix.png)
 
+Scroll down and click Update profile 
 
 ![](./github_fix_images/6_github_fix.png)
+
+Then at the top of the page click
+![](./github_fix_images/6_1_github_fix.png)
+
 
 All done!
 
@@ -94,6 +100,8 @@ The short description appears directly under the repository name on your main pr
 
 4.  Optionally, add a **"Website"** link. This is the perfect place to link to a live demo, especially if the project is hosted on GitHub Pages.
 
+In the about section click the cog icon
+
 
 ![](./github_fix_images/9_github_fix.png)
 
@@ -104,6 +112,7 @@ Type in a short project description. And click save changes
 
 ![](./github_fix_images/10_github_fix.png)
 
+You will see the description top left 
 
 ![](./github_fix_images/11_github_fix.png)
 
