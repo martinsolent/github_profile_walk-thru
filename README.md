@@ -3,13 +3,24 @@
 
 ## Overview
 
-Your GitHub profile is far more than just a place to store code; it's a dynamic, professional portfolio. For potential employers, it’s a window into your skills, the projects you've built, and your passion for technology. It's ÍÍ›a powerful tool for building your career and demonstrating your enthusiasm for digital projects.
+A strong professional GitHub profile presents you as a skilled and active developer. It should include complete details such as a clear photo, a concise bio, and links to your portfolio or LinkedIn. Pin your best repositories that showcase clean, well-documented code and meaningful projects. Each project should have a detailed README explaining its purpose, setup instructions, and technologies used. Consistent activity through commits and contributions signals engagement, while professional practices such as clear commit messages, tests, and organised code demonstrate quality. Highlight collaboration by contributing to open-source or team projects, and make use of GitHub features like tags and actions to improve visibility and automate workflows.
 
-Unfortunately, it's common for students to create a profile for a module or course and then leave it incomplete. This guide will walk you through simple but powerful steps to turn that dormant profile into a compelling showcase of your talent, one that opens doors to new opportunities.
+Below are two examples of good professional GitHub profiles:
+
+**Example 1:**
+
+**POWELL.,M. 2025.** *M0nica - Overview* [viewed 21 March 2025]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
 
 ![link_to_gitHub_example](github_profile_img/link_to_gitHub_example.png)
 
-**POWELL.,M. 2025.** *M0nica - Overview* [viewed 21 March 2025]. Available from: [https://github.com/M0nica](https://github.com/M0nica)
+
+
+**Example 2:**
+
+**ESCANDIA, A., 2025.** Atzin-escandia - Overview [viewed 29 November 2025]. Available from: [https://github.com/atzin-escandia](https://github.com/atzin-escandia)
+
+![link_to_gitHub_example](github_profile_img/profile_example_2.png)
+
 
 #### Avoid having a GitHub Profile that makes you look like a Bot!
 
@@ -85,6 +96,10 @@ Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/
 
 
 ### 1. The First Impression: Perfecting Your Profile Header 
+
+Your GitHub profile is far more than just a place to store code; it's a dynamic, professional portfolio. For potential employers, it’s a window into your skills, the projects you've built, and your passion for technology. It's a powerful tool for building your career and demonstrating your enthusiasm for digital projects.
+
+Unfortunately, it's common for students to create a profile for a module or course and then leave it incomplete. This guide will walk you through simple but powerful steps to turn that dormant profile into a compelling showcase of your talent, one that opens doors to new opportunities.
 
 The very top of your profile, your avatar, name, bio, and links, creates an immediate first impression for any visitor. Getting these details right is the first step toward a professional and compelling presence.
 
