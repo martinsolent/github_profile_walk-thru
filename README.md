@@ -280,7 +280,7 @@ Working on personal or "side" projects outside of required university or college
 
 GitHub now offers a feature for creating a main promotional profile, allowing you to include a more detailed bio and add images such as tech skill badges and icons, like in the example below:
 
-![](./17_main_profile.png)
+![](./main_profile//17_main_profile.png)
 
 
 Create a new repository - click Repositories:
@@ -290,17 +290,17 @@ Create a new repository - click Repositories:
 
 Then click New
 
-![](../github_profile_2020/main_profile/3_main_profile.png)
+![](./main_profile/3_main_profile.png)
 
 
 Name it exactly the same name as your profile name (owner) remember this is case sensitive
 
 
-![](../github_profile_2020/main_profile/4_main_profile.png)
+![](./main_profile/4_main_profile.png)
 
  Make sure the add README is switched to On and click the Create Repository button
 
-![](../github_profile_2020/main_profile/5_main_profile.png)
+![](./main_profile/5_main_profile.png)
 
 
 The repository will display a template title: **Hi there** 👋 
@@ -308,23 +308,23 @@ The repository will display a template title: **Hi there** 👋
 Now click on the pen icon to edit
 
 
-![](../github_profile_2020/main_profile/6_main_profile.png)
+![](./main_profile/6_main_profile.png)
 
 In edit mode, you’ll see text that’s commented out ```<-- --> ```  (which makes it invisible on the page in preview) providing pointers to help you get started. You can delete this and replace it with your own information, including updating the page title itself.
 
-![](../github_profile_2020/main_profile/7_main_profile.png)
+![](./main_profile/7_main_profile.png)
 
 We will add our bio above the commented out start text Markdown scripting
 
-![](../github_profile_2020/main_profile/main_ready_delete.png)
+![](./main_profile/main_ready_delete.png)
 
 It might be the case you wish to leave the commented out text to use later - if not you can now select it
 
-![](../github_profile_2020/main_profile/main_select_to_delete.png)
+![](./main_profile/main_select_to_delete.png)
 
 Once selected you can delete it 
 
-![](../github_profile_2020/main_profile/main_deleted.png)
+![](./main_profile/main_deleted.png)
 
  ### Customising your Main Profile
 
@@ -336,16 +336,16 @@ Once selected you can delete it
 
 The Skills Icons site is mentioned in Jasper Gabriel blog. Here is its oromotional site [How to Make Your Awesome GitHub Profile](https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog)
 
-![](../github_profile_2020/main_profile/8_main_profile.png)
+![](./main_profile/8_main_profile.png)
 
 Here is the Skills [Icons GitHub repository](https://github.com/tandpfun/skill-icons) you’ll use to add the technical skills icons.
 
-![](../github_profile_2020/main_profile/skills_icons_repo.png)
+![](./main_profile/skills_icons_repo.png)
 
 
 You’ll see a section called **Specifying Icons** on the page, which provides a prompt to copy and paste a code block (in markdown) for inserting images. Click the copy icon, then paste the code into your repository. Make sure to update the icons to those that best represent you and your skills.
 
-![](../github_profile_2020/main_profile/10_main_profile.png)
+![](./main_profile/10_main_profile.png)
 
 This script will look like this:
 
@@ -357,15 +357,15 @@ and will present these icons in Preview mode:
 
 Back on your main profile repo you will paste the copied code block under the bio text
 
-![](../github_profile_2020/main_profile/my_skills_added.png)
+![](./main_profile/my_skills_added.png)
 
 Click the **Preview** button
 
-![](../github_profile_2020/main_profile/my_skills_preview.png)
+![](./main_profile/my_skills_preview.png)
 
 Now go back to Edit mode by clicking on the **Edit** button
 
-![](../github_profile_2020/main_profile/edit_mode.png)
+![](./main_profile/edit_mode.png)
 
 You will now add the skills icons that match your skill sets by updating the default code block you copied and pasted earlier. 
 
@@ -379,13 +379,13 @@ wasm = WebAssembly icon
 ```
 Typing in the relevant ID this will present the visual icon.
 
-![](../github_profile_2020/main_profile/icon_mapping.png)
+![](./main_profile/icon_mapping.png)
 
 To find the relevant IDs for skills icons, you can refer to the section in the skills icon repository that lists all available icon IDs. These IDs are typically short codes, as shown above that you can use in the markdown code block to display the corresponding visual icon.
 
 Further down the page, you’ll find the list of icon IDs for all available skill icons. These can either be copied and pasted, or typed directly into the **My Skills** image link.
 
-![](../github_profile_2020/main_profile/11_main_profile.png)
+![](./main_profile/11_main_profile.png)
 
 Using these skills icon icons we will update the default code block and include the icons you want, you should use the following icon IDs:
 
@@ -402,7 +402,7 @@ react
 
 Your updated code block
 
-![](../github_profile_2020/main_profile/updated_icons.png)
+![](./main_profile/updated_icons.png)
 
 
 ```[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev) ```
@@ -412,19 +412,19 @@ Your updated code block
 
 Now click on **Preview**. Your main profile repo is now complete. Then click on the **Commit changes** button
 
-![](../github_profile_2020/main_profile/14_main_profile.png)
+![](./main_profile/14_main_profile.png)
 
 Now click on the **Commit changes** button to save your changes
 
-![](../github_profile_2020/main_profile/15_main_profile.png)
+![](./main_profile/15_main_profile.png)
 
 Go back your main GitHub profile landing page by clicking on your username
 
-![](../github_profile_2020/main_profile/16_main_profile.png)
+![](./main_profile/16_main_profile.png)
 
 Your main profile repo page will appear as a card pinned at the top of the page.
 
-![](../github_profile_2020/main_profile/17_main_profile.png)
+![](./main_profile/17_main_profile.png)
 
 
 
