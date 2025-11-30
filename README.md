@@ -400,9 +400,17 @@ py (Python)
 react
 ```
 
-Your updated code bl
+Your updated code block
 
-Now click on **Preview**. Your main profile repo is now complete
+![](../github_profile_2020/main_profile/updated_icons.png)
+
+
+```[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev) ```
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev)
+
+
+Now click on **Preview**. Your main profile repo is now complete. Then click on the **Commit changes** button
 
 ![](../github_profile_2020/main_profile/14_main_profile.png)
 
@@ -410,48 +418,25 @@ Now click on the **Commit changes** button to save your changes
 
 ![](../github_profile_2020/main_profile/15_main_profile.png)
 
-Go back your GitHub landing page by clicking on your username
+Go back your main GitHub profile landing page by clicking on your username
 
 ![](../github_profile_2020/main_profile/16_main_profile.png)
 
-Now go to your main profile repo page will appear as a card pinned at the top of the page.
+Your main profile repo page will appear as a card pinned at the top of the page.
 
 ![](../github_profile_2020/main_profile/17_main_profile.png)
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev)
 
+#### How to insert Emojis in GitHub
 
-
-
-
-
-
-
-
-**Excellent Blog on Setting up a Professional GitHub Profile**
-
-![](./github_fix_images/good_profile_blog.png)
-
-**GABRIEL, J., 2024.** How to Make Your Awesome GitHub Profile [viewed 6 November 2025] Available from: [https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog](https://dev.to/jdg2896/how-to-make-your-awesome-github-profile-hog)
-
-**How to insert Emojis in GitHub**
+To wrap up this is just guidance on how you can add emojis within your readme's GitHub README's                                                              
 
 ![tut_6](github_profile_img/tut_6.png)
-
 
 **BALL.,K. 2025.** *EMOJI cheatsheet* [viewed 6 November 2025]. Available from: [https://gist.github.com/roachhd/1f029bd4b50b8a524f3c](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
 
 
-
-[skillsicons.dev](https://skillicons.dev)
-
-**Skills Icons** [https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)
-
-
-```[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev) ```
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,md,perl,py,react)](https://skillicons.dev)
 
 
