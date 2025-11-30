@@ -5,7 +5,7 @@
 
 A strong professional GitHub profile presents you as a skilled and active developer. It should include complete details such as a clear photo, a concise bio, and links to your portfolio or LinkedIn. Pin your best repositories that showcase clean, well-documented code and meaningful projects. Each project should have a detailed README explaining its purpose, setup instructions, and technologies used. Consistent activity through commits and contributions signals engagement, while professional practices such as clear commit messages, tests, and organised code demonstrate quality. Highlight collaboration by contributing to open-source or team projects, and make use of GitHub features like tags and actions to improve visibility and automate workflows.
 
-Learning outcomes this activity can map to for [BCS, DTS (Skills England) & QAA](/GitHub%20Profile%20Task%20Mapping.pdf)
+Learning outcomes this activity can map to for [BCS, DTS (Skills England) & QAA](./GitHub%20Profile%20Task%20Mapping.pdf)
 
 Below are two examples of good professional GitHub profiles:
 
