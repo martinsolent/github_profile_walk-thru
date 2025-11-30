@@ -21,6 +21,12 @@ Below are two examples of good professional GitHub profiles:
 
 ![link_to_gitHub_example](github_profile_img/profile_example_2.png)
 
+**Example 3:**
+
+**TAN, L., 2025.** Poteto - Overview [viewed 30 November 2025]. Available from: [https://github.com/poteto](https://github.com/poteto)
+
+![](./main_profile/lauren.gif)
+
 
 #### Avoid having a GitHub Profile that makes you look like a Bot!
 
