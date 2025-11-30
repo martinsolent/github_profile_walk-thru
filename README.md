@@ -285,7 +285,7 @@ GitHub now offers a feature for creating a main promotional profile, allowing yo
 
 Create a new repository - click Repositories:
 
-![](/main_profile/2_main_profile.png)
+![](./main_profile/2_main_profile.png)
 
 
 Then click New
