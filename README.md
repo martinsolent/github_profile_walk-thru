@@ -90,7 +90,7 @@ Link to recourse mention in this video:&nbsp;<a href="https://www.profileme.dev/
 
 ## Fix Your GitHub Profile Walk-through
 
-**This walkthrough assumes you already have a basic understanding of GitHub, have set up your profile, and created repositories. It also assumes you have some basic knowledge of Markdown scripting.**
+**This walkthrough assumes you already have a basic understanding of GitHub, have set up your profile, and created repositories. It also assumes you have some basic knowledge of Markdown scripting.** [GitHub Flavoured Markdown Course](https://martinsolent.github.io/markdown_course/)
 
 ![](./github_fix_images/1_github_fix.png)
 
@@ -222,7 +222,7 @@ Include the following essential information:
 - **Visuals:** Include photos or screenshots to help visitors understand your work. For example, if you used a Raspberry Pi, include a picture of the hardware setup. You can also include screenshots of your application in action.
 
 
-**Remember to write your README using GitHub Flavoured Markdown. This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.**
+**Remember to write your README using [GitHub Flavoured Markdown](https://martinsolent.github.io/markdown_course/). This is a simple formatting language that is easy to learn. Look up the basics to make your documentation clean and readable.**
 
 
 If you already have an existing repository, go to that repository. If you are starting with a new one, follow these steps instead. Normally, you would create and update files locally, then push them to GitHub. In this case, you will update them directly in the browser on the GitHub platform.
