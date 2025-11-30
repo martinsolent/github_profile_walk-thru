@@ -326,7 +326,7 @@ Once selected you can delete it
 
 ![](./main_profile/main_deleted.png)
 
- ### Customising your Main Profile
+ ### 6. Customising your Main Profile
 
 **Excellent Blog on Setting up a Professional GitHub Profile** We will use the guidance in this blog to add technical skills icons. The blog also contains other fantastic tips to customise and enhance your main profile.
 
