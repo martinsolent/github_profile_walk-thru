@@ -280,12 +280,12 @@ Working on personal or "side" projects outside of required university or college
 
 GitHub now offers a feature for creating a main promotional profile, allowing you to include a more detailed bio and add images such as tech skill badges and icons, like in the example below:
 
+![](/main_profile/17_main_profile.png)
 
-![](../github_profile_2020/main_profile/17_main_profile.png)
 
 Create a new repository - click Repositories:
 
-![](../github_profile_2020/main_profile/2_main_profile.png)
+![](/main_profile/2_main_profile.png)
 
 
 Then click New
